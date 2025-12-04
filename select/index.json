@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "悪魔",
+  "base_artist": "frederic",
+  "createdAt": "2025-12-04T12:24:27.184742Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Akuma / 悪魔",
+      "artist": "KOWZ",
+      "has_synced": false,
+      "path": "select/01_Akuma___悪魔_KOWZ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "悪魔",
+      "artist": "常闇トワ",
+      "has_synced": true,
+      "path": "select/02_悪魔_常闇トワ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "悪魔",
+      "artist": "長谷川白紙",
+      "has_synced": true,
+      "path": "select/03_悪魔_長谷川白紙.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "悪魔",
+      "artist": "フレデリック",
+      "has_synced": false,
+      "path": "select/pl_01_悪魔_フレデリック.txt"
+    }
+  ]
+}
